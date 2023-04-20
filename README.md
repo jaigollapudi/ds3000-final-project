@@ -10,7 +10,7 @@ The project has the following structure:
 
 **Data:** vehicles.csv\
 **Notebook:** DS3000_Group64_Project.ipnyb\
-**Poster:** DS3000_Poster_Group64.pdf
+**Poster:** DS3000 Final Project Poster (Group64).pdf
 
 The dataset used in this project is sourced from the [United States Department of Energy (Fuel Economy)](https://www.fueleconomy.gov/feg/download.shtml) and includes information on individualized car usage across the United States.
 
